@@ -1,0 +1,10 @@
+.custom-select{
+    border: none;
+    border-bottom: 2px solid black;
+    height: 50%;
+    font-family: 'Lato', sans-serif;
+}
+.custom-select:focus{
+    outline: none;
+    background-color: #f3f3f3;
+}
